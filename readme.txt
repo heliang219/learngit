@@ -17,6 +17,12 @@ Creating a new branch is quick.
 
 haha my test branch third
 
+
 hehe my test branch four
+
+master add some content
+
+master add some content haha hehe
+
 
 
